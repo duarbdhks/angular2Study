@@ -15,7 +15,7 @@ function examReturn(a) {
     if (a == 'asdf') {
     }
     else {
-        return "examReturn 함수 호출";
+        return "examReturn 함수 호출 ";
     }
 }
 function examVoid() {
