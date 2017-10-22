@@ -10,6 +10,8 @@ cp2 = "test";
 cp2 = 123;
 cp2 = true;
 function examReturn(a) {
+
+    
     if (a == 'asdf') {
     }
     else {
